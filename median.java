@@ -26,7 +26,7 @@ class median{
             System.out.print(arr2[total/2]);
         }
         else{
-            System.out.print((arr2[total/2-1]+arr2[total/2])/2);
+            System.out.print((arr2[total/2-1]+arr2[total/2])/2.0);
         }
     }
 }
